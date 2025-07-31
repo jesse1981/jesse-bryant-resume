@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Senior Software Engineer",
+    "company": "JD Sports",
+    "location": "Sydney, Australia",
+    "dates": "January 2025 – Present",
+    "url": "./img/jd-sports.png",
+    "description": "Senior backend engineer responsible for developing and maintaining scalable ecommerce and retail integrations, contributing to platform reliability, API design, and automation initiatives across the technology team.",
+    "techStack": ["Node.js", "TypeScript", "AWS", "PostgreSQL", "Shopify", "Bloomreach", "Onestock"]
+  },
+  {
+    "title": "Platform Integration Manager",
+    "company": "Metcash",
+    "location": "Sydney, Australia",
+    "dates": "October 2017 – December 2024",
+    "url": "./img/metcash.png",
+    "description": "Led project management, documentation, coordination, and authoring of custom-developed network imports, ELT workflows, APIs, and microservices to integrate data sources internally and externally. Ensured robust architecture with minimal points of failure and proactive alerting. Launched IGA Rewards and IGA Online Shop.",
+    "techStack": ["Node.js", "TypeScript", "React", "PHP", "Python", "AWS", "SendGrid", "Twilio", "Algolia", "WordPress", "MySQL", "Redis", "MongoDB", "Airship", "Google Pass", "Auth0", "Serverless"]
+  },
+  {
+    "title": "Senior Developer",
+    "company": "Simble",
+    "location": "Sydney, Australia",
+    "dates": "October 2016 – September 2017",
+    "url": "./img/simble.png",
+    "description": "Delivered end-to-end cloud-hosted business mobility solutions. Responsibilities included gathering requirements, providing pre-sales estimates, project management, full-stack development, deployment, testing, and documentation. Solutions integrated with client databases, workflows, and third-party systems.",
+    "techStack": ["Node.js", "PHP"]
+  },
+  {
+    "title": "Analyst Programmer",
+    "company": "Nielsen Television Audience Measurement",
+    "location": "Sydney, Australia",
+    "dates": "September 2011 – October 2016",
+    "url": "./img/nielsen.png",
+    "description": "Led development and maintenance of internal applications. Projects included CRM systems, email/attachment processors, client-facing ecommerce management systems, a custom MVC REST interface, a risk register, and customer information websites.",
+    "techStack": ["VB.NET", "PHP", "Magento", "C#", "Interbase", "PostgreSQL", "MySQL", "MS SQL Server", "WordPress"]
+  },
+  {
+    "title": "Interactive Developer",
+    "company": "UberConsult Solutions",
+    "location": "Sydney, Australia",
+    "dates": "February 2011 – June 2011",
+    "url": "./img/uber.png",
+    "description": "Developed branded websites using CSS, HTML, jQuery, and PHP. Worked with CMS platforms including Magento and WordPress. Collaborated closely with stakeholders to gather requirements and define platform targets.",
+    "techStack": ["PHP", "JavaScript", "jQuery", "HTML", "CSS", "WordPress", "Magento"]
+  },
+  {
+    "title": "Software Developer",
+    "company": "LEAP Legal",
+    "location": "Sydney, Australia",
+    "dates": "September 2009 – February 2011",
+    "url": "./img/leap.png",
+    "description": "Focused on development of 'LEAP Documents', a document management system for legal firms, using the 4th Dimension (4D) platform.",
+    "techStack": ["4th Dimension (4D)"]
+  },
+  {
+    "title": "Data Analyst / Network Administrator",
+    "company": "Data Processors",
+    "location": "Sydney, Australia",
+    "dates": "September 2008 – August 2009",
+    "url": "./img/data-processors.png",
+    "description": "Monitored network health, developed automation scripts for software patching and reporting, and managed procurement of IT equipment.",
+    "techStack": ["Batch scripting", "Windows networking"]
+  },
+  {
+    "title": "Software Support Consultant",
+    "company": "Espreon",
+    "location": "Sydney, Australia",
+    "dates": "January 2008 – September 2008",
+    "url": "./img/espreon.png",
+    "description": "Supported the 'Domain' property management software. Maintained a knowledge base, analyzed internal code to improve support, and trained new recruits.",
+    "techStack": ["Domain software", "Technical support", "Knowledge base documentation"]
+  },
+  {
+    "title": "Software Support Consultant",
+    "company": "Billback",
+    "location": "Sydney, Australia",
+    "dates": "January 2007 – January 2008",
+    "url": "./img/billback.png",
+    "description": "Provided support for the Billback suite, used to capture telecom and email-related costs. Served as the primary support contact for the 'Domain' conveyancing management software.",
+    "techStack": ["Billback software", "Domain software", "Technical support"]
+  },
+  {
+    "title": "I.C.U. Shift Leader",
+    "company": "Jagex",
+    "location": "Cambridge, UK",
+    "dates": "April 2005 – January 2007",
+    "url": "./img/jagex.png",
+    "description": "Led a team in the Investigation in the Community Unit (ICU) to detect and prevent cheating in Runescape. Identified automated macros, removed auction listings, and engaged with webmasters and proxy networks to protect player security.",
+    "techStack": ["Internal moderation tools", "Proxy/IP tracking", "Automation detection"]
+  },
+  {
+    "title": "Software Support Consultant",
+    "company": "MDS News",
+    "location": "Sydney, Australia",
+    "dates": "2001 – 2004",
+    "url": "./img/mdsnews.png",
+    "description": "Provided support for the Market Analyser/Pro software suite via phone, web, and email. Troubleshot application and network issues for both resellers and direct customers.",
+    "techStack": ["Market Analyser/Pro", "Customer support", "Basic networking"]
+  }
+]

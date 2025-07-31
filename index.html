@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jesse Bryant | Resume</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div class="main-container">
+        <header class="centred">
+            <h1>Jesse Bryant</h1>
+            <p>Software Engineer | Web Developer</p>
+
+            <div class="contact-info"></div>
+        </header>
+        <section class="career-summary-container">
+            <h2>Career Summary</h2>
+        </section>
+        <section class="achievments-container">
+            <h2>Achievments</h2>
+        </section>
+        <section class="jobs-container">
+            <h2>Career History</h2>
+        </section>
+        <section class="personal-interests-container">
+            <h2>Personal Interests</h2>
+        </section>
+    </div>
+    <script src="./js/contact.js"></script>
+    <script src="./js/career-summary.js"></script>
+    <script src="./js/achievments.js"></script>
+    <script src="./js/jobs.js"></script>
+    <script src="./js/personal.js"></script>
+    <script>
+    const h2s = document.querySelectorAll('h2');
+
+    h2s.forEach((h2, index) => {
+        //if (index === 0) return; // Skip the first <h2>
+
+        const text = h2.textContent.trim();
+        const [firstWord, ...rest] = text.split(' ');
+        h2.innerHTML = `<span class="red">${firstWord}</span> ${rest.join(' ')}`;
+    });
+    </script>
+</body>
+</html>
