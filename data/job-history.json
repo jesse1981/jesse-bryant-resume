@@ -3,10 +3,10 @@
     "title": "Senior Software Engineer",
     "company": "JD Sports",
     "location": "Sydney, Australia",
-    "dates": "January 2025 – Present",
+    "dates": "January 2025 – June 2025",
     "url": "./img/jd-sports.png",
     "description": "Senior backend engineer responsible for developing and maintaining scalable ecommerce and retail integrations, contributing to platform reliability, API design, and automation initiatives across the technology team.",
-    "techStack": ["Node.js", "TypeScript", "AWS", "PostgreSQL", "Shopify", "Bloomreach", "Onestock"]
+    "techStack": ["Delphi/Pascal", "Node.js", "TypeScript", "AWS", "MySQL", "Shopify", "Bloomreach", "Onestock"]
   },
   {
     "title": "Platform Integration Manager",
