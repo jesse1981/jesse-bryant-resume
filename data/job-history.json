@@ -96,6 +96,6 @@
     "dates": "2001 – 2004",
     "url": "./img/mdsnews.png",
     "description": "Provided support for the Market Analyser/Pro software suite via phone, web, and email. Troubleshot application and network issues for both resellers and direct customers.",
-    "techStack": ["Market Analyser/Pro", "Customer support", "Basic networking"]
+    "techStack": ["Market Analyser/Pro"]
   }
 ]
