@@ -43,7 +43,7 @@
     });
 
     window.addEventListener('load', () => {
-        fetch('./ascii.txt')
+        fetch('./data/ascii.txt')
         .then(res => res.text())
         .then(text => {
             const lines = text.split('\n');
