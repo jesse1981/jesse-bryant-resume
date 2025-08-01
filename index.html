@@ -34,13 +34,21 @@
     <script src="./js/personal.js"></script>
     <script>
     const h2s = document.querySelectorAll('h2');
-
     h2s.forEach((h2, index) => {
         //if (index === 0) return; // Skip the first <h2>
 
         const text = h2.textContent.trim();
         const [firstWord, ...rest] = text.split(' ');
         h2.innerHTML = `<span class="red">${firstWord}</span> ${rest.join(' ')}`;
+    });
+
+    window.addEventListener('load', () => {
+        fetch('./data/ascii.txt')
+        .then(res => res.text())
+        .then(text => {
+            text.split('\n').forEach(line => console.log(line));
+        })
+        .catch(err => console.error('Error loading ASCII art:', err));
     });
     </script>
 </body>
