@@ -43,10 +43,24 @@
     });
 
     window.addEventListener('load', () => {
-        fetch('./data/ascii.txt')
+        fetch('./ascii.txt')
         .then(res => res.text())
         .then(text => {
-            text.split('\n').forEach(line => console.log(line));
+            const lines = text.split('\n');
+            const colors = [
+                '#FF5733', // red-orange
+                '#FF8D1A', // orange
+                '#FFC300', // yellow
+                '#28B463', // green
+                '#3498DB', // blue
+                '#8E44AD', // purple
+                '#C70039'  // deep pink
+            ];
+
+            lines.forEach((line, i) => {
+            const color = colors[i % colors.length];
+            console.log(`%c${line}`, `color: ${color}; font-family: monospace`);
+            });
         })
         .catch(err => console.error('Error loading ASCII art:', err));
     });
