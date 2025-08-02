@@ -1,25 +1,25 @@
 // on window load
 window.addEventListener('load', () => {
     // get the jobs container
-    const achievmentsContainer = document.querySelector('.achievments-container');
+    const achievementsContainer = document.querySelector('.achievements-container');
 
-    // fetch the achievments data from the API
-    fetch('./data/achievments.json')
+    // fetch the achievements data from the API
+    fetch('./data/achievements.json')
         .then(response => response.json())
-        .then(achievments => {
-            // create an unordered list for achievments
+        .then(achievements => {
+            // create an unordered list for achievements
             const listObj = document.createElement('ul');
 
             // loop through each achievment and create an achievment card
-            achievments.forEach(achievment => {
+            achievements.forEach(achievment => {
                 const listItem = document.createElement('li');
                 listItem.className = 'achievment-item';
                 listItem.innerHTML = achievment;
 
                 listObj.appendChild(listItem);
             });
-            achievmentsContainer.appendChild(listObj);
+            achievementsContainer.appendChild(listObj);
         }
     )        
-    .catch(error => console.error('Error fetching achievments:', error));
+    .catch(error => console.error('Error fetching achievements:', error));
 });
