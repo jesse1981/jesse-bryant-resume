@@ -15,7 +15,7 @@
     "dates": "October 2017 – December 2024",
     "url": "./img/metcash.png",
     "description": "Led project management, documentation, coordination, and authoring of custom-developed network imports, ELT workflows, APIs, and microservices to integrate data sources internally and externally. Ensured robust architecture with minimal points of failure and proactive alerting. Launched IGA Rewards and IGA Online Shop.",
-    "techStack": ["Node.js", "TypeScript", "React", "PHP", "Python", "AWS", "SendGrid", "Twilio", "Algolia", "WordPress", "MySQL", "Redis", "MongoDB", "Airship", "Google Pass", "Auth0", "Serverless"]
+    "techStack": ["Node.js", "TypeScript", "React", "PHP", "Python", "AWS", "SendGrid", "Twilio", "Algolia", "WordPress", "MySQL", "Golang", "MongoDB", "Airship", "Google Pass", "Auth0", "Serverless"]
   },
   {
     "title": "Senior Developer",
