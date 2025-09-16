@@ -5,7 +5,7 @@
     "location": "Sydney, Australia",
     "dates": "January 2025 – June 2025",
     "url": "./img/jd-sports.png",
-    "description": "Senior backend engineer responsible for developing and maintaining scalable ecommerce and retail integrations, contributing to platform reliability, API design, and automation initiatives across the technology team.",
+    "description": "Senior backend engineer responsible for developing and maintaining scalable ecommerce and retail integrations, contributing to platform reliability, API development and design, and automation initiatives across the technology team.",
     "techStack": ["Delphi/Pascal", "Node.js", "TypeScript", "AWS", "MySQL", "Shopify", "Bloomreach", "Onestock"]
   },
   {
@@ -14,7 +14,7 @@
     "location": "Sydney, Australia",
     "dates": "October 2017 – December 2024",
     "url": "./img/metcash.png",
-    "description": "Led project management, documentation, coordination, and authoring of custom-developed network imports, ELT workflows, APIs, and microservices to integrate data sources internally and externally. Ensured robust architecture with minimal points of failure and proactive alerting. Launched IGA Rewards and IGA Online Shop.",
+    "description": "Led project management, documentation, coordination, and authoring of custom-developed network imports, ELT workflows, API development, and microservices to integrate data sources internally and externally. Ensured robust architecture with minimal points of failure and proactive alerting. Launched IGA Rewards and IGA Online Shop.",
     "techStack": ["Node.js", "TypeScript", "React", "PHP", "Python", "AWS", "SendGrid", "Twilio", "Algolia", "WordPress", "MySQL", "Golang", "MongoDB", "Airship", "Google Pass", "Auth0", "Serverless"]
   },
   {
@@ -23,7 +23,7 @@
     "location": "Sydney, Australia",
     "dates": "October 2016 – September 2017",
     "url": "./img/simble.png",
-    "description": "Delivered end-to-end cloud-hosted business mobility solutions. Responsibilities included gathering requirements, providing pre-sales estimates, project management, full-stack development, deployment, testing, and documentation. Solutions integrated with client databases, workflows, and third-party systems.",
+    "description": "Delivered end-to-end cloud-hosted business mobility solutions. Responsibilities included gathering requirements, providing pre-sales estimates, project management, full-stack development, API development, deployment, testing, and documentation. Solutions integrated with client databases, workflows, and third-party systems.",
     "techStack": ["Node.js", "PHP"]
   },
   {
@@ -32,7 +32,7 @@
     "location": "Sydney, Australia",
     "dates": "September 2011 – October 2016",
     "url": "./img/nielsen.png",
-    "description": "Led development and maintenance of internal applications. Projects included CRM systems, email/attachment processors, client-facing ecommerce management systems, a custom MVC REST interface, a risk register, and customer information websites.",
+    "description": "Led development and maintenance of internal fullstack applications. Projects included CRM systems, email/attachment processors, client-facing ecommerce management systems, a custom MVC REST interface with API development, a risk register, and customer information websites.",
     "techStack": ["VB.NET", "PHP", "Magento", "C#", "Interbase", "PostgreSQL", "MySQL", "MS SQL Server", "WordPress"]
   },
   {
