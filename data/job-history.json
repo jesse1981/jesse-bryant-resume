@@ -6,7 +6,7 @@
     "dates": "January 2025 – June 2025",
     "url": "./img/jd-sports.png",
     "description": "Senior backend engineer responsible for developing and maintaining scalable ecommerce and retail integrations, contributing to platform reliability, API development and design, and automation initiatives across the technology team.",
-    "techStack": ["Delphi/Pascal", "Node.js", "TypeScript", "AWS", "MySQL", "Shopify", "Bloomreach", "Onestock"]
+    "techStack": ["Delphi/Pascal", "AWS", "MySQL", "Shopify API", "Bloomreach", "Onestock"]
   },
   {
     "title": "Platform Integration Manager (Software Developer Lead)",
@@ -14,7 +14,7 @@
     "location": "Sydney, Australia",
     "dates": "October 2017 – December 2024",
     "url": "./img/metcash.png",
-    "description": "Led project management, documentation, coordination, and authoring of custom-developed network imports, ELT workflows, API development, and microservices to integrate data sources internally and externally. Ensured robust architecture with minimal points of failure and proactive alerting. Launched IGA Rewards and IGA Online Shop.",
+    "description": "Architected and led the development of IGA Rewards, a customer loyalty platform for over 1,400 IGA stores across Australia. Responsibilities included end-to-end project management, full-stack development, API design and implementation, cloud infrastructure management, CI/CD pipeline setup, and team leadership.<br/><br/>The platform integrated with various third-party services and internal systems to provide a seamless user experience.<br/><br/>Program delivered a consistent average of 12% uplift in basket size, significantly enhancing customer engagement and loyalty. Created the online shop from the time of COVID which integrated with all of the last-mile delivery services.",
     "techStack": ["Node.js", "TypeScript", "React", "PHP", "Python", "AWS", "SendGrid", "Twilio", "Algolia", "WordPress", "MySQL", "Golang", "MongoDB", "Airship", "Google Pass", "Auth0", "Serverless"]
   },
   {
@@ -60,7 +60,7 @@
     "dates": "September 2008 – August 2009",
     "url": "./img/data-processors.png",
     "description": "Monitored network health, developed automation scripts for software patching and reporting, and managed procurement of IT equipment.",
-    "techStack": ["Batch scripting"]
+    "techStack": []
   },
   {
     "title": "Software Support Consultant",
@@ -69,7 +69,7 @@
     "dates": "January 2008 – September 2008",
     "url": "./img/espreon.png",
     "description": "Supported the 'Domain' property management software. Maintained a knowledge base, analyzed internal code to improve support, and trained new recruits.",
-    "techStack": ["Domain software"]
+    "techStack": []
   },
   {
     "title": "Software Support Consultant",
@@ -78,7 +78,7 @@
     "dates": "January 2007 – January 2008",
     "url": "./img/billback.png",
     "description": "Provided support for the Billback suite, used to capture telecom and email-related costs. Served as the primary support contact for the 'Domain' conveyancing management software.",
-    "techStack": ["Billback software", "Domain software"]
+    "techStack": []
   },
   {
     "title": "I.C.U. Shift Leader",
@@ -87,7 +87,7 @@
     "dates": "April 2005 – January 2007",
     "url": "./img/jagex.png",
     "description": "Led a team in the Investigation in the Community Unit (ICU) to detect and prevent cheating in Runescape. Identified automated macros, removed auction listings, and engaged with webmasters and proxy networks to protect player security.",
-    "techStack": ["Internal moderation tools"]
+    "techStack": []
   },
   {
     "title": "Software Support Consultant",
@@ -96,6 +96,6 @@
     "dates": "2001 – 2004",
     "url": "./img/mdsnews.png",
     "description": "Provided support for the Market Analyser/Pro software suite via phone, web, and email. Troubleshot application and network issues for both resellers and direct customers.",
-    "techStack": ["Market Analyser/Pro"]
+    "techStack": []
   }
 ]
