@@ -23,7 +23,7 @@
     "location": "Sydney, Australia",
     "dates": "October 2016 – September 2017",
     "url": "./img/simble.png",
-    "description": "Delivered end-to-end cloud-hosted business mobility solutions. Responsibilities included gathering requirements, providing pre-sales estimates, project management, full-stack development, API development, deployment, testing, and documentation. Solutions integrated with client databases, workflows, and third-party systems.",
+    "description": "Delivered end-to-end cloud-hosted business mobility solutions. Responsibilities included gathering requirements, providing pre-sales estimates, project management, full-stack development, API development, deployment, testing, and documentation. Solutions integrated with client databases, workflows, and third-party systems.<br/><br/>During my short term, I successfully delivered the singapore launch of the website which was a full clone of the Thailand site, along with customizations for the local market.",
     "techStack": ["Node.js", "PHP"]
   },
   {
